@@ -33,3 +33,7 @@ Repositori ini berisi proyek dan eksperimenku, dari game sederhana hingga prepro
 ---
 
 [Telusuri semua repositori →](https://github.com/jojookun?tab=repositories)
+
+## Temukan aku
+
+[LinkedIn](https://www.linkedin.com/in/jojookun/) · [Instagram](https://www.instagram.com/jojookun.ch/)
